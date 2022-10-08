@@ -1,0 +1,11 @@
+{
+	"title"		:	"Chat sync (game component)",
+	"type"		:	"ServerContent",
+	"tags"		:	[ "fun", "realism" ],
+	"ignore"	:
+	[
+		"*.psd",
+		"*.vcproj",
+		"*.svn*"
+	]
+}
